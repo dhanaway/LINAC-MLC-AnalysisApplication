@@ -1,7 +1,7 @@
 # LINAC-MLC-AnalysisApplication
 A complete user friendly application for analysis of radiation dose delivery of LINAC machines for medical physics quality assurance.
 
-MotherProgram.py is a script to initiate and handle all processes required to analyze LINAC radiation dose data with ion chambers. This script ties together three separate multi-language processes into a user friendly and accessible instance. A user must have the location of 1) a folder containing all the .dlg files raw data files and 2) of dynAnalysisOctToPy.m + all dynalog supporting files. These will be the first prompts from MotherProgram. (sole author: Dalton Hanaway)
+MotherProgram.py is a script to initiate and handle all processes required to analyze LINAC radiation dose data with ion chambers. This script ties together three separate multi-language processes into a user friendly and accessible instance. A user must have the location of 1) a folder containing all the .dlg files raw data files and 2) of dynAnalysisOctToPy.m + all dynalog supporting files. These will be the first prompts from MotherProgram.
 
 To run from command line only:
 
