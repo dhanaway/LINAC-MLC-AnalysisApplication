@@ -8,7 +8,8 @@ To run from command line only:
 python C:\directory\MotherProgram.py
 
 
-**Processes handled by MotherProgram.**
+
+**Processes handled by MotherProgram:**
 
 _DynAnalysisOctToPy.m_
 
