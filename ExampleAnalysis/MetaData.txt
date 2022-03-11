@@ -1,0 +1,10 @@
+Path meta data for Week1
+1, none, Week1/Test1 test1_MCLdynamicArc1-974mu-gaps.csv
+2, none, Week1/Test2 test2_DynArc2.csv
+3, none, Week1/Test3 test3_DynArc3.csv
+4, none, Week1/Test4 test4_DynArc4.csv
+5, none, Week1/Test5 test5_DynArc5(1).csv
+6, none, Week1/Test6 test6_DynArc5(2).csv
+7, none, Week1/Test7 test7_DynArc1Redo.csv
+CSV Test file location: C:\Users\admin\Desktop\RH_Summer2019\New2019\Database\Week1
+
