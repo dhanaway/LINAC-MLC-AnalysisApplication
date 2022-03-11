@@ -5,7 +5,7 @@ MotherProgram.py is a script to initiate and handle all processes required to an
 
 To run from command line only:
 
-python /directory/MotherProgram.py
+  python /directory/MotherProgram.py
 
 
 
